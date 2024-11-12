@@ -7,4 +7,4 @@
    ./generate-delete-commands.sh
    ```
 4. Validate the list of generated delete commands to ensure it is only generating commands for expected secrets
-5. Run the delete commands in a terminal or
+5. Run the delete commands in a terminal or shell script
